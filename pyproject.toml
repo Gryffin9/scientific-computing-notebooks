@@ -1,0 +1,9 @@
+[project]
+name = "scientific-computing-notebooks"
+version = "0.1.0"
+description = "Small reproducible Python examples for scientific computing and numerical workflows."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
