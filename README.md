@@ -1,6 +1,6 @@
 # Scientific Computing Notebooks
 
-Reproducible Python examples for numerical methods, modelling, and simulation-style analysis.
+Compact, educational Python examples for numerical methods and simulation-style post-processing.
 
 This repo is a public collection of small, readable scientific-computing examples. The goal is to show clear explanation, clean notebooks, reproducible code, and practical numerical workflows.
 
@@ -12,14 +12,10 @@ This repo is a public collection of small, readable scientific-computing example
 - Tutoring-friendly code that exposes assumptions and intermediate values
 - Simulation-style post-processing with clear summaries
 
-## Example topics
+## Included examples
 
-- numerical integration
-- optimization
-- simulation post-processing
-- uncertainty-aware analysis
-- plotting and interpretation
-- tensor/numerical-method utilities
+- Numerical integration with deterministic inputs
+- Simulation-style post-processing of synthetic data
 
 ## Repository structure
 
